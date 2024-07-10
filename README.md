@@ -20,7 +20,7 @@
 - #### Rainy Brainy
   ML project leveraging machine learning algorithms to analyze historical weather data and develop predictive models capable of forecasting rinfall with high accuracy.
 
-- #### Te Power Of Math: Web Application With AWS
+- #### To Power Of Math: Web Application With AWS
   Services to build web applicationc, including AWS Amplify for hosting. AWS Lambda for serverless computation,, API Gateway for endpoint management, and DynamODB for data storage.  
 
 # 💻 Tech Stack
