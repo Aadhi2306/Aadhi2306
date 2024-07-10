@@ -14,6 +14,30 @@
 # 👩‍💻 About Me 
 - As a dedicated and motivated CSE student with a passion for DataScience and in AWS cloud service and for web development, my goal is to leverage my academic foundation and coding skills to contribute creatively to dynamic web pages.
 
+# Internship Experience
+- Izeon Innovative | <b>AWS Cloud Partitioner</b> 11/12/23 - 11/01/24<br/>
+
+  <b>Key responsibilities:</b><br/>
+  Developed and deployed an end-to-end web application using
+  core AWS services such as EC2, S3, RDS, and Lambda.
+  Learned and implemented AWS networking concepts and
+  security best practices, including VPC setup, IAM roles, and
+  security groups.
+  Integrated various AWS components to create a cohesive,
+  scalable, and functional web application.
+
+- National Small Industry Cooperation | <b>Android Developer</b>
+26/06/23 - 10/07/23<br/>
+
+  <b>Key responsibilities:</b><br/>
+  Worked closely with UI/UX designers to implement visually
+  appealing and intuitive user interfaces.
+  Engaged in continuous learning and self-improvement by
+  exploring online resources and tutorials related to Android app
+  development.
+  Demonstrated flexibility and adaptability in taking on new
+  challenges and learning new tools or technologies as needed.
+
 # Projects
 - #### Rainy Brainy
   ML project leveraging machine learning algorithms to analyze historical weather data and develop predictive models capable of forecasting rinfall with high accuracy.
@@ -26,7 +50,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhira/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codesandbox.io/u/aadhi2306[Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aadhi2306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhira/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codesandbox.io/u/aadhi2306) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aadhi2306)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=aadhi2306&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
