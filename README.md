@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **aadhi2306@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1rp_Lm9WXIk6Kge-oR8nv_KTMVO8Kql2j/view?usp=sharing](https://drive.google.com/file/d/1rp_Lm9WXIk6Kge-oR8nv_KTMVO8Kql2j/view?usp=sharing)
-
 # 👩‍💻 About Me 
 - As a dedicated and motivated CSE student with a passion for DataScience and in AWS cloud service and for web development, my goal is to leverage my academic foundation and coding skills to contribute creatively to dynamic web pages.
 
