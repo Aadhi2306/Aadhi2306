@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS (Cloud Service Provider)**
 
-- 👯 I’m looking to collaborate on **WEB development, AWS**
+- 👯 I’m looking to collaborate on **WEB development, AWS and ML related.**
 
 - 💻 All of my projects are available at [https://github.com/Aadhi2306](https://github.com/Aadhi2306)
 
@@ -14,7 +14,7 @@
 # 👩‍💻 About Me 
 - As a dedicated and motivated CSE student with a passion for DataScience and in AWS cloud service and for web development, my goal is to leverage my academic foundation and coding skills to contribute creatively to dynamic web pages.
 
-# Internship Experience
+# 🔭 Internship Experience
 - Izeon Innovative | <b>AWS Cloud Partitioner</b> 11/12/23 - 11/01/24<br/>
 
   <b>Key responsibilities:</b><br/>
@@ -38,7 +38,7 @@
   Demonstrated flexibility and adaptability in taking on new
   challenges and learning new tools or technologies as needed.
 
-# Projects
+# 📈 Projects
 - #### Rainy Brainy
   ML project leveraging machine learning algorithms to analyze historical weather data and develop predictive models capable of forecasting rinfall with high accuracy.
 
