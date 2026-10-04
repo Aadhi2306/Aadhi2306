@@ -2,10 +2,6 @@
 
 <h3 align="center">Associate Software Engineer @ Accenture | AI/ML & Generative AI | Python | Azure | AWS | GCP</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aadhi2306&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
